@@ -1,0 +1,6 @@
+{
+  "name": "NovaMente",
+  "description": "Una plataforma educativa interactiva diseñada para niños y adolescentes de 10 a 15 años que transforma el aprendizaje en una gran aventura digital mediante misiones, desafíos, minijuegos y recompensas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
